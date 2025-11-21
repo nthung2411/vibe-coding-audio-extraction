@@ -1,0 +1,14 @@
+# Audio Extraction Tool Requirements
+# Note: This tool requires ffmpeg to be installed separately on your system
+
+# Python dependencies (minimal - most work is done by ffmpeg)
+# No Python packages required for basic functionality
+
+# Optional: If you want to add GUI support later, you can add:
+# PyQt5>=5.15.0
+# or
+# tkinter (usually comes with Python)
+
+# For future enhancements:
+# tqdm>=4.65.0  # For better progress bars
+
